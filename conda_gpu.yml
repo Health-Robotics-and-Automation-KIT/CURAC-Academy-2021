@@ -1,0 +1,21 @@
+name: curac
+channels:
+- pytorch
+- conda-forge
+dependencies:
+- python=3.8
+- numpy
+- pytorch
+- torchvision
+- torchaudio
+- cudatoolkit=10.2
+- notebook
+- ipywidgets
+- pandas
+- pillow
+- tqdm
+- matplotlib
+- pip
+- pip:
+  - livelossplot
+  - torchsummary
