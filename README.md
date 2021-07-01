@@ -1,4 +1,4 @@
-# Before CURAC Academy 2021
+# CURAC Academy 2021 - Workshop
 ## System requirements
 * Ubuntu 18.04 or MacOSX. Windows 10 might work as well, but was not tested.
 * git ([installation instructions](https://git-scm.com/downloads))
