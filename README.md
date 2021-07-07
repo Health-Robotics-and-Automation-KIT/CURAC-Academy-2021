@@ -15,3 +15,6 @@
 6. Open chrome or firefox and go to `http://localhost:8888/tree`.
 7. Open the `Introduction Tutorial.ipynb` notebook to get started.
 8. Continue to the `Skin Cancer Classification.ipynb` notebook.
+
+## Information
+More information on [HERA](https://hera.iar.kit.edu/) and [CURAC](https://curac.org/de/) can be found on their respective websites.
